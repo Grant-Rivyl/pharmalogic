@@ -70,7 +70,7 @@
         
         // Add more locations here
     ];
-
+  
 
     locations.forEach(location => {
                 var el = document.createElement('div');
