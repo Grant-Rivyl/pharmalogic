@@ -63,8 +63,8 @@
         { coordinates: [-71.3056839737528, 46.79001828644972], name: 'Isologic Quebec City', address: '2655 Rue Dalton, Quebec, QC G1P 3S8', phone: '418 650 1623', manager: 'Ian Lagotte'  },
         { coordinates: [-73.70786014682467, 45.460755449681535], name: 'Isologic Montreal', address: '11215 Chermin de la Cote-De-Liesse Dorval, Quebec, Canada H9P181', phone: '514 636 5552', manager: 'Josie Mancuso'  },
         { coordinates: [-112.00731719999999, 43.533146108602544], name: 'PharmaLogic Idaho Falls', address: '4077 Commerce Circle, Idaho Falls, Idaho 83401', phone: '208 419 0026', manager: 'Gary Smith'  },
-{ coordinates: [-111.90209330501631, 40.659452137649254], name: 'PharmaLogic Salt Lake City', address: '383 West Vine Street, Suite 101, Murray, UT 84123', phone: 'N/A', manager: 'Kylo Nelson'  },
-{ coordinates: [-97.6903123191848, 30.375960595826715], name: 'PharmaLogic Austin', address: '10600 N Lamar Boulevard, Austin, TX 78753', phone: 'N/A', manager: 'Grant Pearson'  },
+        { coordinates: [-111.90209330501631, 40.659452137649254], name: 'PharmaLogic Salt Lake City', address: '383 West Vine Street, Suite 101, Murray, UT 84123', phone: 'N/A', manager: 'Kylo Nelson'  },
+        { coordinates: [-97.6903123191848, 30.375960595826715], name: 'PharmaLogic Austin', address: '10600 N Lamar Boulevard, Austin, TX 78753', phone: 'N/A', manager: 'Grant Pearson'  },
         { coordinates: [-73.9094574626766, 40.80886230096631], name: 'PharmaLogic New York Bronx', address: '390 Concord Avenue, Bronx, New York 10454', phone: 'N/A', manager: 'Adrryl Addison'  },
         { coordinates: [-118.19997932081174, 34.062858129469134], name: 'PharmaLogic Los Angeles', address: '2250 Alcazar Street, Los Angeles, CA 90033', phone: '213 647 4253', manager: 'Andy Luong'  }
         
